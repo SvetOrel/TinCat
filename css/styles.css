@@ -33,15 +33,7 @@
 }
 
 
-h2{
-  font-family:"Montserrat-Bold";
-  font-size: 3rem;
-  line-height:1.5;
-}
 
-p{
-  color:#8f8f8f;
-}
 
 /*Download Buttons */
 .download-button{
@@ -74,27 +66,4 @@ p{
 color: #E6E6FA;
 }
 
-/* Testimonial Section */
-/* #testimonials{
-  padding: 7% 15% ;
-  text-align: center;
-  background-color: #d65c85;
-  color: #fff;
-} */
 
-.testimonials-margin{
-  margin-top: 3rem;
-  margin-bottom: 3rem;
-}
-
-#press{
-  width:100px;
-  display:grid;
-  grid-template-columns: repeat(4, 1fr);
-  text-align: center;
-  
-}
-
-.press-img{
-  background-color: #d65c85;
-}
